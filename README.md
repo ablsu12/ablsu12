@@ -1,7 +1,7 @@
 ### Hi guys 👋🏽
 
 # 💫 About Me:
-🔭 I’m a Frontend Engineer<br>📷 I’m looking for a job either part-time or full-time<br>⌨️ I'm coding & building interactive web applications with Js, ReactJs, Next Js & ...<br>💬 Ask me about JS, ReactJs, Next JS, Redux, ....<br>
+🔭 I’m a Frontend Engineer<br>📷 I'm coding & building interactive web applications with Js, ReactJs, Next Js & ...<br>💬 Ask me about JS, ReactJs, Next JS, Redux, ....<br>
 
 
 ## 🌐 Socials:
